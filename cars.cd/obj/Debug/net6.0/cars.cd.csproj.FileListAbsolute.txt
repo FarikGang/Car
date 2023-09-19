@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\bin\Debug\net6.0\cars.cd.exe
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\bin\Debug\net6.0\cars.cd.deps.json
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\bin\Debug\net6.0\cars.cd.runtimeconfig.json
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\bin\Debug\net6.0\cars.cd.dll
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\bin\Debug\net6.0\cars.cd.pdb
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\obj\Debug\net6.0\cars.cd.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\obj\Debug\net6.0\cars.cd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\obj\Debug\net6.0\cars.cd.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\obj\Debug\net6.0\cars.cd.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\obj\Debug\net6.0\cars.cd.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\obj\Debug\net6.0\cars.cd.dll
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\obj\Debug\net6.0\refint\cars.cd.dll
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\obj\Debug\net6.0\cars.cd.pdb
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\obj\Debug\net6.0\cars.cd.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Рабочий стол\test\cars.cd\obj\Debug\net6.0\ref\cars.cd.dll
